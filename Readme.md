@@ -1,4 +1,4 @@
-# Atomically resolved electron emission from encapsulated WSe2
+# Direct Imaging of Electron Orbital Cross Sections with a Scanning Transmission Electron Microscope
 
 This repository houses the data and analysis workflow for the publication [full citation when available]. The data is contained in the files:
 
