@@ -29,3 +29,6 @@ K-means clustering is used on the tiles to discriminate between the different la
 Finally, the mean response for HAADF and SEEBIC signals is calculated.
 
 [<img src="Recording_of_SuperScan_(HAADF)_mean_response.png" width="400"/>](Recording_of_SuperScan_(HAADF)_mean_response.png)
+
+[![DOI](https://zenodo.org/badge/569360327.svg)](https://zenodo.org/badge/latestdoi/569360327)
+
