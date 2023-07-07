@@ -1,12 +1,14 @@
-# Direct Imaging of Electron Orbital Cross Sections with a Scanning Transmission Electron Microscope
+# Direct Imaging of Electron Density with a Scanning Transmission Electron Microscope
 
-This repository houses the data and analysis workflow for the publication [full citation when available]. The data is contained in the files:
+This repository houses the data and analysis workflow for the publication *Direct Imaging of Electron Density with a Scanning Transmission Electron Microscope* by Ondrej Dyck, Jawaher Almutlaq, David Lingerfelt, Jacob L. Swett, Mark P. Oxley, Bevin Huang, Andrew R. Lupini, Dirk Englund, and Stephen Jesse  published in Nature Communications in 2023.
+
+The data is contained in the files:
 
 SEEBIC image `Recording of SuperScan(Ext).tif`
 
 HAADF image `Recording of SuperScan(HAADF).tif`
 
-These images are 32 bit and do not display in most image viewers ([Imagej](https://imagej.nih.gov/ij/)/[Fiji](https://imagej.net/software/fiji/) does display them). The analysis workflow is contained in the Jupyter notebook `atomai_analysis.ipynb`. All other files are produced by the notebook.
+These images are 32 bit and do not display in most image viewers ([Imagej](https://imagej.nih.gov/ij/)/[Fiji](https://imagej.net/software/fiji/) does display them). The analysis workflow is contained in the Jupyter notebook `atomai_analysis.ipynb`. The file `G_MD.tar` contains the pretrined model weights for [AtomAI](https://github.com/pycroscopy/atomai/) atom finding. All other files are produced by the notebook.
 
 Here are example frames from the image stacks.
 
